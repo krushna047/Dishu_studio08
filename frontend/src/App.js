@@ -40,7 +40,7 @@ const BABY_GALLERY = [
 ];
 
 // Hero Video
-const HERO_VIDEO = "/video/video.mp4";
+const HERO_VIDEO = "video/video.mp4";
 
 // Social Links
 const INSTAGRAM_URL = "https://www.instagram.com/dishu_studio_wedding";
