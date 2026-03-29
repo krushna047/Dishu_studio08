@@ -1,9 +1,11 @@
 /* Dishu Studio - Premium Photography Website */
 
 /* Hero Section - Light & Airy */
+/* HERO SECTION */
+
 .hero-section {
   position: relative;
-  min-height: 100vh;   /* 🔥 CHANGE THIS */
+  min-height: 100vh;
   width: 100%;
   overflow: hidden;
 }
@@ -15,11 +17,12 @@
   height: 100%;
 }
 
-.hero-bg video {
+/* 🔥 IMPORTANT CHANGE (video → img) */
+.hero-bg img {
+  position: absolute;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  position: absolute;
   top: 0;
   left: 0;
   z-index: 0;
@@ -28,6 +31,7 @@
 .hero-content {
   position: relative;
   z-index: 2;
+  text-align: center;
 }
 
 /* Light hero overlay - no heavy dark */
