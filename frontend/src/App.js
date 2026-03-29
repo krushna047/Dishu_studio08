@@ -40,7 +40,7 @@ const BABY_GALLERY = [
 ];
 
 // Hero Video
-const HERO_VIDEO = "https://res.cloudinary.com/dvswzke0b/video/upload/v1774818264/video.mp4_oibkjj.mp4";
+const HERO_VIDEO = "video.mp4";
 
 // Social Links
 const INSTAGRAM_URL = "https://www.instagram.com/dishu_studio_wedding";
